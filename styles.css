@@ -1,1 +1,12 @@
 /*  your css code here. If applicable */
+body:{
+	font-family:Inter;
+}
+h1{
+	text-align:center;
+}
+span{
+	color:#68a4fe;
+	
+	
+}
