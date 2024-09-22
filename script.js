@@ -12,7 +12,7 @@ btn.addEventListener("click",(e)=>{
                 <td>${titleVal.value}</td>
                 <td>${authorVal.value}</td>
                 <td>${isbnVal.value}</td>
-                <td class="delete">X</td>
+                <td><button class="delete">X</button></td>
                 </tr>`;
 
     console.log(tbody);
